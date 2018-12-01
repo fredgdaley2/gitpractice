@@ -1,10 +1,16 @@
 Show status: git status
-Commit all files files: git add .
+Commit all files : git add .
 Commit changes: git commit -m "starting"
-Create new branch: git checkout -b branch-name /* add dashes wher spaces would be */
+Commit all files and commit changes one command:  git commit -am "message"
+Create new branch: git checkout -b branch-name /* add dashes where spaces would be */
 See current branch: git [branchname]
 GoTo branch: git checkout [branchname]
 Merge branch: 
      git checkout master
      git merge [branch to merge]
 Delete Branch: git branch -D [branchname]
+
+Get Remote Branch:
+     git remote
+     git branch -r
+Push Changes to remote branch: git push -u origin master
