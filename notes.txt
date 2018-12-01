@@ -1,3 +1,4 @@
 Show status: git status
 Commit all files files: git add .
 Commit changes: git commit -m "starting"
+Create new branch: git checkout -b branch-name /* add dashes wher spaces would be */
