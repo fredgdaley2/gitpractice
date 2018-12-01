@@ -1,1 +1,3 @@
-commit all files files: git add .
+Show status: git status
+Commit all files files: git add .
+Commit changes: git commit -m "starting"
