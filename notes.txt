@@ -2,3 +2,8 @@ Show status: git status
 Commit all files files: git add .
 Commit changes: git commit -m "starting"
 Create new branch: git checkout -b branch-name /* add dashes wher spaces would be */
+See current branch: git brancha
+GoTo branch: git checkout [branchname]
+Merge branch: 
+     git checkout master
+     git merge [branch to merge]
