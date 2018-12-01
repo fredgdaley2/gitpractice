@@ -7,3 +7,4 @@ GoTo branch: git checkout [branchname]
 Merge branch: 
      git checkout master
      git merge [branch to merge]
+Delete Branch: git branch -D [branchname]
